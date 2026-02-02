@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Urgent Action – Women & Girls</title>
+
+  <style>
+    :root{
+      --bg:#0b0b0c;
+      --text:#ffffff;
+      --muted:rgba(255,255,255,.78);
+      --btnBg:#ffffff;
+      --btnText:#0b0b0c;
+    }
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+    .wrap{
+      width:100%;
+      max-width:720px;
+      padding:26px 16px 34px;
+      text-align:center;
+    }
+    h1{
+      margin:0 0 10px;
+      font-size:22px;
+      font-weight:900;
+    }
+    h2{
+      margin:0 0 18px;
+      font-size:16px;
+      font-weight:700;
+      color:var(--muted);
+    }
+    p{
+      margin:0 0 22px;
+      font-size:14px;
+      color:var(--muted);
+      line-height:1.7;
+    }
+    a.btn{
+      display:block;
+      background:var(--btnBg);
+      color:var(--btnText);
+      text-decoration:none;
+      padding:18px 20px;
+      border-radius:18px;
+      margin:22px 0;
+      font-weight:900;
+      box-shadow:0 10px 24px rgba(0,0,0,.35);
+      direction:ltr;
+    }
+    a.btn span{
+      display:block;
+      font-size:14px;
+      font-weight:700;
+      margin-top:6px;
+    }
+    a.btn:active{
+      transform:translateY(1px);
+    }
+    .back{
+      margin-top:26px;
+      font-size:13px;
+    }
+    .back a{
+      color:var(--muted);
+      text-decoration:none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <h1>URGENT: Enforced Disappearances of Iranian Women and Girls</h1>
+    <h2>اقدام فوری: ناپدیدسازی اجباری زنان و دختران ایرانی</h2>
+
+    <p>
+      با کلیک روی دکمه زیر، یک ایمیل آماده در برنامه ایمیل شما باز می‌شود.
+      لطفاً متن را بررسی کرده و روی <b>Send</b> بزنید.
+      <br><b>هر پیام می‌تواند جان انسان‌ها را نجات دهد.</b>
+    </p>
+
+    <a class="btn" target="_blank" rel="noopener"
+href="mailto:hrwpress@hrw.org
+?cc=womensrights@hrw.org,info@equalitynow.org,advocacy@madre.org,info@womenforwomen.org,info@wilpf.org,info@globaljusticecenter.net,registry@ohchr.org,tips@reuters.com,newsgathering@bbc.co.uk,press@amnesty.org
+&subject=URGENT%3A%20Enforced%20Disappearances%20of%20Iranian%20Women%20and%20Girls%20%E2%80%93%20Immediate%20Action%20Required
+&body=Dear%20Sir%20or%20Madam%2C%0A%0AWe%20are%20writing%20to%20you%20with%20extreme%20urgency%20regarding%20a%20deeply%20alarming%20and%20escalating%20situation%20in%20Iran.%0A%0ASince%20the%20recent%20nationwide%20protests%2C%20a%20significant%20number%20of%20women%20and%20young%20girls%20have%20been%20arrested.%20To%20this%20day%2C%20families%20have%20received%20no%20information%20about%20their%20fate.%20In%20many%20cases%2C%20even%20when%20individuals%20are%20reported%20killed%2C%20bodies%20have%20not%20been%20returned%2C%20and%20authorities%20have%20provided%20no%20explanation.%20Families%20remain%20in%20complete%20uncertainty%2C%20fearing%20the%20worst.%0A%0AWe%20are%20particularly%20alarmed%20given%20that%20the%20Islamic%20Revolutionary%20Guard%20Corps%20(IRGC)%20has%20been%20designated%20by%20the%20European%20Parliament%20as%20a%20terrorist%20organization.%20This%20designation%20significantly%20heightens%20concern%20that%20detainees%2C%20especially%20women%20and%20girls%2C%20are%20at%20increased%20risk%20of%20retaliation%2C%20abuse%2C%20and%20sexual%20violence.%0A%0ACredible%20patterns%20from%20past%20and%20present%20cases%20in%20Iran%20indicate%20enforced%20disappearances%2C%20incommunicado%20detention%2C%20torture%2C%20and%20grave%20violations%20of%20international%20human%20rights%20law.%20The%20absence%20of%20transparency%2C%20denial%20of%20access%20to%20families%2C%20and%20total%20lack%20of%20accountability%20constitute%20serious%20and%20ongoing%20abuses.%0A%0AWe%20respectfully%20urge%20immediate%20and%20concrete%20action%2C%20including%3A%0A%E2%80%A2%20launching%20or%20supporting%20an%20urgent%20international%20investigation%0A%E2%80%A2%20publicly%20demanding%20clarification%20on%20the%20fate%20and%20whereabouts%20of%20detained%20women%20and%20girls%0A%E2%80%A2%20pressuring%20Iranian%20authorities%20to%20account%20for%20all%20detainees%20and%20allow%20independent%20monitoring%0A%E2%80%A2%20mobilizing%20international%20mechanisms%20to%20prevent%20further%20abuses%20and%20potential%20executions%0A%0ASilence%20and%20delay%20may%20cost%20lives.%20Visibility%2C%20pressure%2C%20and%20coordinated%20international%20action%20can%20save%20them.%0A%0AWith%20respect%20and%20urgency%2C">
+      Send Urgent Email
+      <span>ارسال ایمیل فوری درباره ناپدیدسازی زنان و دختران</span>
+    </a>
+
+    <div class="back">
+      <a href="./index.html">← بازگشت / Back</a>
+    </div>
+
+  </div>
+</body>
+</html>
